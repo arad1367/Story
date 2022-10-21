@@ -1,1 +1,3 @@
 A new file is added!.
+- We found a very good publisher.
+- We need some modifications as well.
