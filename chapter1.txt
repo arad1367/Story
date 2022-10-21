@@ -1,1 +1,4 @@
-Today I had a problem with some codes related to machine learning project. I try to find the best solution.
+Today I had a problem with some codes related to machine learning project. 
+There are different ways to figure out them.
+I just think which way is the best.
+
